@@ -9,3 +9,14 @@
 ### [Data Engineer Project](https://github.com/suben-mk/Data-Engineer-Project-R2DE)
   * **Brief description :** This is the project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process which are automated ETL pipeline and data visualisation.
   * **Technologies used :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
+
+### [SQL Final Workshop](https://github.com/suben-mk/SQL-Workshop-DataTH)
+  * **Brief description :** This is the SQL final workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on writing SQL queries to analyze data from the Superstore dataset. The final workshop query specifically targeted data from March 15th, 2023 to May 3rd, 2023, focusing on a selection of relevant columns.
+  * **Technologies used :** SQL
+
+### [Python Workshop for Data Engineer](https://github.com/suben-mk/Python-Workshop-DataTH)
+  * **Brief description :** This is the python workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on fundamentals of the ETL process for data engineer using Python. The workshop built a data process that\
+    _Extracted data :_ Used SQLAlchemy and Pandas to extract data from a SQLite database\
+    _Transformed data :_ Cleaned and manipulated the data according to specifications\
+    _Loaded data :_ Loaded the processed data into a new SQLite database using SQLAlchemy and Pandas.
+  * **Technologies used :** Python (Pandas, SQLAlchemy)
