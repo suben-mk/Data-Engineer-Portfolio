@@ -7,8 +7,12 @@
 
 ## Projects
 ### [Data Engineer Project](https://github.com/suben-mk/Data-Engineer-Project-R2DE)
-  * **Brief description :** This is the project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process which are automated ETL pipeline and data visualisation.
+  * **Brief description :** This is the project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process that automated ETL pipeline and data visualisation using data engineering tools.
   * **Technologies used :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
+
+### [Apache Spark - Data Cleansing Workshop](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE)
+  * **Brief description :** This is the workshop conducted for the course R2DE 2023 by DataTH. This workshop focused on fundamentals of data cleansing with Apache Spark on Google Colab. Consisting of Set up Apache Spark, Data Profiling, Exploratory Data Analysis (EDA) and Cleanse data with Spark.
+  * **Technologies used :** Google Colab, Apache Spark (PySpark, SparkSQL)
 
 ### [SQL Final Workshop](https://github.com/suben-mk/SQL-Workshop-DataTH)
   * **Brief description :** This is the SQL final workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on writing SQL queries to analyze data from the Superstore dataset. The final workshop query specifically targeted data from March 15th, 2023 to May 3rd, 2023, focusing on a selection of relevant columns.
