@@ -6,7 +6,7 @@
 📧 subenmukem15@gmail.com | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/suben-mukem/) 
 
 ## Projects :
-_(Project for Data Engineering field)_
+_(Projects for Data Engineering field)_
 ### [Data Engineer Project](https://github.com/suben-mk/Data-Engineer-Project-R2DE)
   * **Brief description :** This is the project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process that automated ETL pipeline and data visualisation using data engineering tools.
   * **Technologies used :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
