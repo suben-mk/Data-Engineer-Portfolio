@@ -8,19 +8,19 @@
 ## Projects :
 _(Projects for Data Engineering field)_
 ### [Data Engineer Project](https://github.com/suben-mk/Data-Engineer-Project-R2DE)
-  * **Brief description :** This is the project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process that automated ETL pipeline and data visualisation using data engineering tools.
+  * **Brief description :** The project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process, automated ETL pipeline and data visualisation using data engineering tools.
   * **Technologies used :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
 
 ### [Apache Spark - Data Cleansing Workshop](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE)
-  * **Brief description :** This is the workshop conducted for the course R2DE 2023 by DataTH. This workshop focused on fundamentals of data cleansing with Apache Spark on Google Colab. Consisting of Set up Apache Spark, Data Profiling, Exploratory Data Analysis (EDA) and Cleanse data with Spark.
+  * **Brief description :** The workshop is part of the course R2DE 2023 by DataTH. This workshop focused on fundamentals of data cleansing with Apache Spark on Google Colab. Consisting of Set up Apache Spark, Data Profiling, Exploratory Data Analysis (EDA) and Cleanse data with Spark.
   * **Technologies used :** Google Colab, Apache Spark (PySpark, SparkSQL)
 
 ### [SQL Final Workshop](https://github.com/suben-mk/SQL-Workshop-DataTH)
-  * **Brief description :** This is the SQL final workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on writing SQL queries to analyze data from the Superstore dataset. The final workshop query specifically targeted data from March 15th, 2023 to May 3rd, 2023, focusing on a selection of relevant columns.
+  * **Brief description :** The SQL final workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on writing SQL queries to analyze data from the Superstore dataset. The final workshop query specifically targeted data from March 15th, 2023 to May 3rd, 2023, focusing on a selection of relevant columns.
   * **Technologies used :** SQL
 
 ### [Python Workshop for Data Engineer](https://github.com/suben-mk/Python-Workshop-DataTH)
-  * **Brief description :** This is the python workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on fundamentals of the ETL process for data engineer using Python. The workshop built a data process that\
+  * **Brief description :** The python workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on fundamentals of the ETL process for data engineer using Python. The workshop built a data process that\
     _Extracted data :_ Used SQLAlchemy and Pandas to extract data from a SQLite database\
     _Transformed data :_ Cleaned and manipulated the data according to specifications\
     _Loaded data :_ Loaded the processed data into a new SQLite database using SQLAlchemy and Pandas.
