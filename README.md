@@ -27,7 +27,8 @@ _(Projects for Data Engineering Field)_
   * **Technologies used :** Python (Pandas, SQLAlchemy)
 
 ### [Selenium - Web Scraping](https://github.com/suben-mk/Selenium-Web-Scraping)
-  * **Brief description :** 
+  * **Brief description :** Selenium tool used to extract data from [Wongnai](https://www.wongnai.com/collections/line-man-wongnai-users-choice-2024-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7-%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99)
+and create a dataset of 20 restaurants in the Ari-Jatujak-Ladprao-North Bangkok area and then load it into database.
   * **Technologies used :** Python (Selenium, Pandas, SQLAlchemy)
 
 ## Others :
