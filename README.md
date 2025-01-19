@@ -12,7 +12,7 @@ _(Projects for Data Engineering Field)_
   * **Technologies stack :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
 
 ### [ETL Data Pipeline with Airflow in Docker](https://github.com/suben-mk/etl-pipeline-with-airflow-in-docker)
-  * **Brief description :** 
+  * **Brief description :** The project focused on building ETL data pipeline with Airflow in Docker and load into Google Cloud Platform (Cloud Storage, BigQuery)
   * **Technologies stack :** Python, Docker, Apache Airflow, Cloud Storage, BigQuery, Slack
 
 ### [Apache Spark - Data Cleansing Workshop](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE)
