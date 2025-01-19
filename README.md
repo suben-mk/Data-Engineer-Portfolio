@@ -11,6 +11,10 @@ _(Projects for Data Engineering Field)_
   * **Brief description :** The project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process, automated ETL pipeline and data visualisation using data engineering tools.
   * **Technologies stack :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
 
+### [ETL Data Pipeline with Airflow in Docker](https://github.com/suben-mk/etl-pipeline-with-airflow-in-docker)
+  * **Brief description :** 
+  * **Technologies stack :** Python, Docker, Apache Airflow, Cloud Storage, BigQuery, Slack
+
 ### [Apache Spark - Data Cleansing Workshop](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE)
   * **Brief description :** The workshop is part of the course R2DE 2023 by DataTH. This workshop focused on fundamentals of data cleansing with Apache Spark on Google Colab. Consisting of Set up Apache Spark, Data Profiling, Exploratory Data Analysis (EDA) and Cleanse data with Spark.
   * **Technologies stack :** Google Colab, Apache Spark (PySpark, SparkSQL)
