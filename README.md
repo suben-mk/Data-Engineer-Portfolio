@@ -8,7 +8,7 @@
 ## Projects :
 _(Projects for Data Engineering Field)_
 ### [Data Engineer Project](https://github.com/suben-mk/Data-Engineer-Project-R2DE)
-  * **Brief description :** The project conducted for the course R2DE 2023 by DataTH. This project involved building an end-to-end data engineering process, automated ETL pipeline and data visualisation using data engineering tools.
+  * **Brief description :** This project involved building an end-to-end data engineering process, automated ETL pipeline and data visualisation using data engineering tools. The company collects sales data from the website and stores it in a database. The Data Engineering team is required to prepare this data for the Data Analyst team, who will use it to create reports and dashboards for the Product and Marketing teams.
   * **Technologies stack :** Python (Pandas, Requests, Plotly), SQL, Bash Command Line, Apache Spark, Apache Airflow, GCP (Storage, Composer, BigQuery), Looker Studio
 
 ### [ETL Data Pipeline with Airflow in Docker](https://github.com/suben-mk/etl-pipeline-with-airflow-in-docker)
