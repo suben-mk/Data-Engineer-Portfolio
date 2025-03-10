@@ -24,7 +24,7 @@ _(Projects for Data Engineering Field)_
   * **Technologies stack :** SQL
 
 ### [Python Workshop for Data Engineer](https://github.com/suben-mk/Python-Workshop-DataTH)
-  * **Brief description :** The python workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on fundamentals of the ETL process for data engineer using Python. The workshop built a data process that\
+  * **Brief description :** This workshop focused on fundamentals of the ETL process for data engineer using Python. The workshop built a data process that\
     _Extracted data :_ Used SQLAlchemy and Pandas to extract data from a SQLite database\
     _Transformed data :_ Cleaned and manipulated the data according to specifications\
     _Loaded data :_ Loaded the processed data into a new SQLite database using SQLAlchemy and Pandas.
