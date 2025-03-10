@@ -19,8 +19,8 @@ _(Projects for Data Engineering Field)_
   * **Brief description :** This workshop focused on fundamentals of data cleansing with Apache Spark on Google Colab. Consisting of Set up Apache Spark, Data Profiling, Exploratory Data Analysis (EDA) and Cleanse data with Spark.
   * **Technologies stack :** Google Colab, Apache Spark (PySpark, SparkSQL)
 
-### [SQL Final Workshop](https://github.com/suben-mk/SQL-Workshop-DataTH)
-  * **Brief description :** The SQL final workshop conducted for the course Intro to Data Coding 2024 by DataTH. This workshop focused on writing SQL queries to analyze data from the Superstore dataset. The final workshop query specifically targeted data from March 15th, 2023 to May 3rd, 2023, focusing on a selection of relevant columns.
+### [SQL Workshop](https://github.com/suben-mk/SQL-Workshop-DataTH)
+  * **Brief description :** This workshop focused on writing SQL queries to analyze data from the Superstore dataset following on the relevant columns. Requirement of a business team want data for the further use in a reporting, from March 15th, 2023 to May 3rd, 2023.
   * **Technologies stack :** SQL
 
 ### [Python Workshop for Data Engineer](https://github.com/suben-mk/Python-Workshop-DataTH)
