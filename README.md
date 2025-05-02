@@ -15,6 +15,10 @@ _(Projects for Data Engineering Field)_
   * **Brief description :** The project focused on building ETL data pipeline with Airflow in Docker and load into Google Cloud Platform (Cloud Storage, BigQuery). The data pipeline will notify to Slack when task is success or failed. 
   * **Technologies stack :** Python, Docker, Apache Airflow, Cloud Storage, BigQuery, Slack
 
+### [Data Quality with Airflow](https://github.com/suben-mk/data-quality-with-airflow)
+  * **Brief description :** 
+  * **Technologies stack :** Python, SQL, Docker, Apache Airflow, Great Expectations, Common SQL
+
 ### [Apache Spark - Data Cleansing Workshop](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE)
   * **Brief description :** This workshop focused on fundamentals of data cleansing with Apache Spark on Google Colab. Consisting of Set up Apache Spark, Data Profiling, Exploratory Data Analysis (EDA) and Cleanse data with Spark.
   * **Technologies stack :** Google Colab, Apache Spark (PySpark, SparkSQL)
