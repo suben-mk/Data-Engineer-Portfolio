@@ -16,7 +16,7 @@ _(Projects for Data Engineering Field)_
   * **Technologies stack :** Python, Docker, Apache Airflow, Cloud Storage, BigQuery, Slack
 
 ### [Data Quality with Airflow](https://github.com/suben-mk/data-quality-with-airflow)
-  * **Brief description :** 
+  * **Brief description :** In this project, focusing on data quality checks using Great Expectations and Common SQL Provider in Airflow. The checks are run against data from a SQLite database, based on defined conditions. Data quality is validated at both the table level and the column level.
   * **Technologies stack :** Python, SQL, Docker, Apache Airflow, Great Expectations, Common SQL
 
 ### [Apache Spark - Data Cleansing Workshop](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE)
